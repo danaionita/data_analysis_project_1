@@ -1,1 +1,5 @@
-theme: jekyll-theme-merlot
+theme: jekyll-theme-minimal
+title: Dana Ionita
+description: Data Analyst
+logo: https://www.linkedin.com/in/dana-ionita-533a2098/
+show_downloads: false
