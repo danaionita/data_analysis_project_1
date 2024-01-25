@@ -1,3 +1,3 @@
 # data_analysis_project_1.github.io
-[Link](https://www.linkedin.com/in/dana-ionita-533a2098/)
+[ Dana Ionita LinkedIn Profile](https://www.linkedin.com/in/dana-ionita-533a2098/)
 
